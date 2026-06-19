@@ -1,21 +1,25 @@
 Transport for London (TfL) Ridership & Station Footfall Analysis
 
+
 Project Overview
 
 This project analyzes passenger journeys and station footfall across the Transport for London (TfL) network between 2019 and 2025.
 
 Using Python and Power BI, the project explores travel demand patterns, station performance, commuter behaviour, and the impact of COVID-19 on London's public transport system.
 
+
 Tools & Technologies
 
 Python (Pandas)
 
 Power BI,
+
 DAX,
 
 Data Modelling (Star Schema),
 
 CSV Data Processing,
+
 
 Data Model
 
@@ -28,9 +32,11 @@ Fact Tables
     Fact Station Footfall
 
 Dimension Tables
+
     Dim Date
     
     Dim Station
+    
 
 Dashboard Pages
 
@@ -76,9 +82,11 @@ Recovery analysis from 2019 to 2025:
    
    Year-over-Year Performance Comparison
    
+   
 Key Findings
 
 Station Performance
+
 King's Cross St Pancras recorded the highest total footfall.
 
 Victoria, London Bridge and Oxford Circus consistently ranked among the busiest stations.
@@ -101,6 +109,7 @@ Daily journeys and station footfall showed a strong positive correlation (r = 0.
 
 Increased network demand was closely associated with higher station usage.
 
+
 Dashboard Preview
 
 Executive Overview
@@ -119,6 +128,7 @@ COVID-19 Impact Analysis
 
 ![COVID Analysis](covid_analysis.png)
 
+
 Business Value
 
 This project demonstrates:
@@ -134,6 +144,7 @@ Power BI Dashboard Design
 Time Series Analysis
 
 Transport Demand Analytics
+
 
 Author
 

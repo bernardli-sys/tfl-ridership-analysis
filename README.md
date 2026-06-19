@@ -12,13 +12,13 @@ Tools & Technologies
 
 Python (Pandas)
 
-Power BI,
+Power BI
 
-DAX,
+DAX
 
-Data Modelling (Star Schema),
+Data Modelling (Star Schema)
 
-CSV Data Processing,
+CSV Data Processing
 
 
 Data Model
